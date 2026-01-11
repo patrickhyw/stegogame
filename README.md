@@ -17,7 +17,7 @@ Simplest game capturing communication steganography + playable by humans:
 4. **Worker sees rules** — more compatible with human play
 
 ## Preliminary Findings
-*Exploratory hackathon results using Opus 4.5 thinking. Task: "write a sentence about any book"*
+*Exploratory hackathon results using Opus 4.5 thinking, zero shot. Task: "write a sentence about any book."*
 
 | Secret Type | Blue Win Rate |
 |-------------|---------------|
